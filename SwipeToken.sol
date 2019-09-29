@@ -490,4 +490,4 @@ contract SwipeToken is ERC20Interface, Tokenlock, UserLock {
 
     }
 
-}
+} 
